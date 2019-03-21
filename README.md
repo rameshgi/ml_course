@@ -7,7 +7,7 @@ https://colab.research.google.com/github/rameshgi/ml_course/blob/master/Exercise
 
 ## Exercise 2 ##
 
-
+https://colab.research.google.com/github/rameshgi/ml_course/blob/master/Exercise2.ipynb
 
 ## Exercise 3 ##
 
